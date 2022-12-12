@@ -1,0 +1,5 @@
+discord.py
+requests
+pymongo
+Pillow>=8.1.1
+dnspython
